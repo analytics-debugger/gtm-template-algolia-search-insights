@@ -1,0 +1,1 @@
+# gtm-template-algolia-search-insights
